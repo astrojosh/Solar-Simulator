@@ -1,10 +1,10 @@
 /*
  ============================================================================
- Name        : SolarSystem.c
+ Name        : solar_system.c
  Author      : Josh Morrow
- Version     :
+ Version     : v0.1
  Copyright   : 
- Description : 
+ Description : Calculates orbit of planets in the Solar System
  ============================================================================
  */
 
